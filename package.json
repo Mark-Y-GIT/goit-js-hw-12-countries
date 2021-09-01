@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "homepage": "https://mark-y-git.github.io/goit-js-hw-12-countries",
+ 
+
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-12-countries/",
@@ -15,7 +17,7 @@
     "url": "git+https://github.com/goitacademy/parcel-project-template.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Mark",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
