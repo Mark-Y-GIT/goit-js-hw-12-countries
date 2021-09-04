@@ -1,0 +1,43 @@
+.country-name {
+  text-align: center;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 1.16;
+  margin-bottom: 30px;
+}
+
+.content {
+  display: flex;
+  justify-content: space-around;
+}
+
+.content__text {
+  font-weight: 100;
+  font-size: 26px;
+  line-height: 1.16;
+}
+
+.information {
+  list-style: none;
+  padding-left: 0;
+}
+
+.information__item--head {
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 1.8;
+}
+
+.information__item {
+  font-weight: 350;
+  font-size: 25px;
+  line-height: 1.16;
+}
+
+.lang {
+  padding-left: 40px;
+}
+
+.content__img {
+  max-width: 100%;
+}
