@@ -6,7 +6,7 @@ export function refineRequest() {
   alert({
     text: 'Too many matches found. Please enter more specific query!',
     sticker: false,
-    delay: 2000,
+    delay: 1000,
   });
 }
 
@@ -14,6 +14,6 @@ export function InputError() {
   error({
     text: 'Wrong entry or country not found!',
     sticker: false,
-    delay: 2000,
+    delay: 1000,
   });
 }
